@@ -1,3 +1,3 @@
 # desafios-complentarios
 
-https://github.com/JoshuaJmelnitzky/desafios-complentarios.git
+https://joshuajmelnitzky.github.io/desafios-complentarios/
