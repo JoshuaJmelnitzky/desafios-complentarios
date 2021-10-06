@@ -1,5 +1,7 @@
 /*Este archivo contiene las variables generales para el desarrollo de tienda de hardware "HardBuy"*/
 
+console.dir(document);
+
 /*  Tipos de productos*/
 let productTypes = [
     {id: 1, name: "Microprocesadores"},
